@@ -1,6 +1,8 @@
 body{
     background-color: aliceblue;
     border: 2px solid black;
+    margin: 70px 120px 50px 70px;
+ 
 }
 
 h1{
@@ -9,6 +11,6 @@ h1{
     animation-direction: left;
 }
 
-ul.academia{
-    
+h2, li{
+    line-height: 160%;
 }
